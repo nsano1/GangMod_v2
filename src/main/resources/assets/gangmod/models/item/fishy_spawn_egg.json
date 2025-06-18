@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0" : "gangmod:item/fishy_spawn_egg"
+  }
+}
